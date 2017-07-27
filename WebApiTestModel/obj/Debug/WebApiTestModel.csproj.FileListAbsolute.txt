@@ -1,0 +1,4 @@
+D:\Demo\WebApiTestClient\WebApiTestModel\bin\Debug\WebApiTestModel.dll
+D:\Demo\WebApiTestClient\WebApiTestModel\bin\Debug\WebApiTestModel.pdb
+D:\Demo\WebApiTestClient\WebApiTestModel\obj\Debug\WebApiTestModel.dll
+D:\Demo\WebApiTestClient\WebApiTestModel\obj\Debug\WebApiTestModel.pdb

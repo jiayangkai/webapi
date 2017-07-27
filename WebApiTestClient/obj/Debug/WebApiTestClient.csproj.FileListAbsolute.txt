@@ -1,0 +1,183 @@
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.dll.config
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.pdb
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Antlr3.Runtime.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\EntityFramework.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\EntityFramework.SqlServer.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Newtonsoft.Json.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Owin.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Net.Http.Formatting.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Helpers.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.Owin.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.WebHost.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Mvc.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Optimization.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Razor.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\WebGrease.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Newtonsoft.Json.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Net.Http.Formatting.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Helpers.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.WebHost.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Mvc.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Optimization.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Razor.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Antlr3.Runtime.pdb
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\EntityFramework.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\EntityFramework.SqlServer.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.Owin.xml
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\obj\Debug\WebApiTestClient.dll
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\obj\Debug\WebApiTestClient.pdb
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.XML
+C:\Users\yangxiaojun\Documents\Visual Studio 2013\Projects\WebApiTestClient\WebApiTestClient\obj\Debug\WebApiTestClient.csprojResolveAssemblyReference.cache
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.dll.config
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.pdb
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestClient.XML
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Antlr3.Runtime.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\EntityFramework.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\EntityFramework.SqlServer.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Google.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Newtonsoft.Json.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Owin.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Net.Http.Formatting.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Helpers.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.Owin.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.WebHost.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Mvc.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Optimization.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Razor.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Deployment.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Razor.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestBll.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestModel.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestUtils.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebGrease.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestDll.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\MySql.Data.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestBll.pdb
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestModel.pdb
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestUtils.pdb
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Newtonsoft.Json.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Net.Http.Formatting.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Helpers.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.WebHost.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Mvc.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Optimization.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Razor.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Deployment.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.WebPages.Razor.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Antlr3.Runtime.pdb
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\EntityFramework.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\EntityFramework.SqlServer.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Google.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\System.Web.Http.Owin.xml
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\WebApiTestDll.pdb
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Http.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\EntityFramework.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\obj\Debug\WebApiTestClient.csprojResolveAssemblyReference.cache
+D:\Demo\WebApiTestClient\WebApiTestClient\obj\Debug\WebApiTestClient.dll
+D:\Demo\WebApiTestClient\WebApiTestClient\obj\Debug\WebApiTestClient.pdb

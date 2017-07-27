@@ -1,0 +1,12 @@
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\WebApiTestDll.dll
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\WebApiTestDll.pdb
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\MySql.Data.dll
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\WebApiTestModel.dll
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\WebApiTestUtils.dll
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\WebApiTestModel.pdb
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\WebApiTestUtils.pdb
+D:\Demo\WebApiTestClient\WebApiTestDll\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\WebApiTestClient\WebApiTestDll\obj\Debug\WebApiTestDll.csprojResolveAssemblyReference.cache
+D:\Demo\WebApiTestClient\WebApiTestDll\obj\Debug\WebApiTestDll.dll
+D:\Demo\WebApiTestClient\WebApiTestDll\obj\Debug\WebApiTestDll.pdb
