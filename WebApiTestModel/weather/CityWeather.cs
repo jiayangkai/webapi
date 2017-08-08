@@ -227,6 +227,10 @@ namespace WebApiTestModel.weather
             /// 夜间描述
             /// </summary>
             public string txt_n { get; set; }
+            /// <summary>
+            /// 图片地址，为空则由客户端生成
+            /// </summary>
+            public string src { get; set; }
         }
 
         /// <summary>
@@ -257,6 +261,7 @@ namespace WebApiTestModel.weather
             /// 数据详情
             /// </summary>
             public string txt { get; set; }
+            
         }
         /// <summary>
         /// 风力
