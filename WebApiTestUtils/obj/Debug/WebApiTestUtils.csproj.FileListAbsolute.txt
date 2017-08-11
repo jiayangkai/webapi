@@ -4,3 +4,9 @@ D:\Demo\WebApiTestClient\WebApiTestUtils\bin\Debug\Newtonsoft.Json.dll
 D:\Demo\WebApiTestClient\WebApiTestUtils\bin\Debug\Newtonsoft.Json.xml
 D:\Demo\WebApiTestClient\WebApiTestUtils\obj\Debug\WebApiTestUtils.dll
 D:\Demo\WebApiTestClient\WebApiTestUtils\obj\Debug\WebApiTestUtils.pdb
+D:\Demo\开源\webapi\WebApiTestUtils\bin\Debug\WebApiTestUtils.dll
+D:\Demo\开源\webapi\WebApiTestUtils\bin\Debug\WebApiTestUtils.pdb
+D:\Demo\开源\webapi\WebApiTestUtils\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\开源\webapi\WebApiTestUtils\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\开源\webapi\WebApiTestUtils\obj\Debug\WebApiTestUtils.dll
+D:\Demo\开源\webapi\WebApiTestUtils\obj\Debug\WebApiTestUtils.pdb

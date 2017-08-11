@@ -47,6 +47,12 @@
     <Compile Include="weather\CityCode.cs" />
     <Compile Include="weather\CityWeather.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApiTestUtils\WebApiTestUtils.csproj">
+      <Project>{b73adc12-e9cb-45b1-a5c5-8ea932d9b846}</Project>
+      <Name>WebApiTestUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

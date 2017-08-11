@@ -1,5 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Reflection;
+using WebApiTestUtils;
 
 namespace WebApiTestModel.weather
 {
@@ -295,158 +299,155 @@ namespace WebApiTestModel.weather
             
         }
         /// <summary>
-        /// 空气指数
+        /// 指数
         /// </summary>
-        public class Air
+        public class Index
         {
+
+            //private string _src;
             /// <summary>
             /// 简介
             /// </summary>
             public string brf { get; set; }
             /// <summary>
-            /// 详情--气象条件对空气污染物稀释、扩散和清除无明显影响，易感人群应适当减少室外活动时间。
+            /// 详情
             /// </summary>
             public string txt { get; set; }
+            /// <summary>
+            /// 指数名称
+            /// </summary>
+            public string name { get; set; }
+
+            /// <summary>
+            /// 图片地址
+            /// </summary>
+            public string src { get; set; }
         }
-        /// <summary>
-        /// 舒适度指数
-        /// </summary>
-        public class Comf
-        {
-            /// <summary>
-            /// 简介--很不舒适
-            /// </summary>
-            public string brf { get; set; }
-            /// <summary>
-            /// 详情--白天天气晴好，但烈日炎炎您会感到很热，很不舒适。
-            /// </summary>
-            public string txt { get; set; }
-        }
-        /// <summary>
-        /// 洗车指数
-        /// </summary>
-        public class Cw
-        {
-            /// <summary>
-            /// 较适宜
-            /// </summary>
-            public string brf { get; set; }
-            /// <summary>
-            /// 较适宜洗车，未来一天无雨，风力较小，擦洗一新的汽车至少能保持一天。
-            /// </summary>
-            public string txt { get; set; }
-        }
-        /// <summary>
-        /// 穿衣指数
-        /// </summary>
-        public class Drsg
-        {
-            /// <summary>
-            /// 炎热
-            /// </summary>
-            public string brf { get; set; }
-            /// <summary>
-            /// 天气炎热，建议着短衫、短裙、短裤、薄型T恤衫等清凉夏季服装。
-            /// </summary>
-            public string txt { get; set; }
-        }
-        /// <summary>
-        /// 感冒指数
-        /// </summary>
-        public class Flu
-        {
-            /// <summary>
-            /// 少发
-            /// </summary>
-            public string brf { get; set; }
-            /// <summary>
-            /// 各项气象条件适宜，发生感冒机率较低。但请避免长期处于空调房间中，以防感冒。
-            /// </summary>
-            public string txt { get; set; }
-        }
-        /// <summary>
-        /// 运动指数
-        /// </summary>
-        public class Sport
-        {
-            /// <summary>
-            /// 较不宜
-            /// </summary>
-            public string brf { get; set; }
-            /// <summary>
-            /// 天气较好，无雨水困扰，但考虑气温很高，请注意适当减少运动时间并降低运动强度，运动后及时补充水分。
-            /// </summary>
-            public string txt { get; set; }
-        }
-        /// <summary>
-        /// 旅行指数
-        /// </summary>
-        public class Trav
-        {
-            /// <summary>
-            /// 较不宜
-            /// </summary>
-            public string brf { get; set; }
-            /// <summary>
-            /// 天气较好，微风，但温度高，天气很热，请注意防暑降温，并注意防晒，若外出可选择水上娱乐等清凉项目。
-            /// </summary>
-            public string txt { get; set; }
-        }
-        /// <summary>
-        /// 紫外线指数
-        /// </summary>
-        public class Uv
-        {
-            /// <summary>
-            /// 中等
-            /// </summary>
-            public string brf { get; set; }
-            /// <summary>
-            /// 属中等强度紫外线辐射天气，外出时建议涂擦SPF高于15、PA+的防晒护肤品，戴帽子、太阳镜。
-            /// </summary>
-            public string txt { get; set; }
-        }
+        
         /// <summary>
         /// 生活指数
         /// </summary>
         public class Suggestion
         {
+            private Index _air;
+            private Index _comf;
+            private Index _cw;
+            private Index _drsg;
+            private Index _flu;
+            private Index _sport;
+            private Index _trav;
+            private Index _uv;
             /// <summary>
-            /// Air
+            /// 空气指数
             /// </summary>
-            public Air air { get; set; }
+            public Index air
+            {
+                get { return _air; }
+                set
+                {
+                    _air = value;
+                    _air.name = "空气";
+                }
+            }
+
             /// <summary>
-            /// Comf
+            /// 紫外线指数
             /// </summary>
-            public Comf comf { get; set; }
+            public Index uv
+            {
+                get { return _uv; }
+                set
+                {
+                    _uv = value;
+                    _uv.name = "紫外线";
+                }
+            }
+
             /// <summary>
-            /// Cw
+            /// 感冒指数
             /// </summary>
-            public Cw cw { get; set; }
+            public Index flu
+            {
+                get { return _flu; }
+                set
+                {
+                    _flu = value;
+                    _flu.name = "感冒";
+                }
+            }
+
             /// <summary>
-            /// Drsg
+            /// 舒适度指数
             /// </summary>
-            public Drsg drsg { get; set; }
+            public Index comf
+            {
+                get { return _comf; }
+                set
+                {
+                    _comf = value;
+                    _comf.name = "舒适度";
+                }
+            }
+
             /// <summary>
-            /// Flu
+            /// 穿衣指数
             /// </summary>
-            public Flu flu { get; set; }
+            public Index drsg
+            {
+                get { return _drsg; }
+                set
+                {
+                    _drsg = value;
+                    _drsg.name = "穿衣";
+                }
+            }
+
             /// <summary>
-            /// Sport
+            /// 运动指数
             /// </summary>
-            public Sport sport { get; set; }
+            public Index sport
+            {
+                get { return _sport; }
+                set
+                {
+                    _sport = value;
+                    _sport.name = "运动";
+                }
+            }
+
             /// <summary>
-            /// Trav
+            /// 旅行指数
             /// </summary>
-            public Trav trav { get; set; }
+            public Index trav
+            {
+                get { return _trav; }
+                set
+                {
+                    _trav = value;
+                    _trav.name = "旅行";
+                }
+            }
+
             /// <summary>
-            /// Uv
+            /// 洗车指数
             /// </summary>
-            public Uv uv { get; set; }
+            public Index cw
+            {
+                get { return _cw; }
+                set
+                {
+                    _cw = value;
+                    _cw.name = "洗车";
+                }
+            }
+
+            
         }
 
         public class HeWeather
         {
+
+            private Suggestion _suggestion;
             /// <summary>
             /// Aqi
             /// </summary>
@@ -474,7 +475,19 @@ namespace WebApiTestModel.weather
             /// <summary>
             /// Suggestion
             /// </summary>
-            public Suggestion suggestion { get; set; }
+            public Suggestion suggestion
+            {
+                get { return _suggestion; }
+                set
+                {
+                    _suggestion = value;
+                }
+            }
+
+            /// <summary>
+            /// 指数列表,便于微信端显示
+            /// </summary>
+            public List<Index> suggestions { get; set; } 
         }
     }
     

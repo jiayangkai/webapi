@@ -2,3 +2,12 @@ D:\Demo\WebApiTestClient\WebApiTestModel\bin\Debug\WebApiTestModel.dll
 D:\Demo\WebApiTestClient\WebApiTestModel\bin\Debug\WebApiTestModel.pdb
 D:\Demo\WebApiTestClient\WebApiTestModel\obj\Debug\WebApiTestModel.dll
 D:\Demo\WebApiTestClient\WebApiTestModel\obj\Debug\WebApiTestModel.pdb
+D:\Demo\开源\webapi\WebApiTestModel\bin\Debug\WebApiTestModel.dll
+D:\Demo\开源\webapi\WebApiTestModel\bin\Debug\WebApiTestModel.pdb
+D:\Demo\开源\webapi\WebApiTestModel\obj\Debug\WebApiTestModel.dll
+D:\Demo\开源\webapi\WebApiTestModel\obj\Debug\WebApiTestModel.pdb
+D:\Demo\开源\webapi\WebApiTestModel\bin\Debug\WebApiTestUtils.dll
+D:\Demo\开源\webapi\WebApiTestModel\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\开源\webapi\WebApiTestModel\bin\Debug\WebApiTestUtils.pdb
+D:\Demo\开源\webapi\WebApiTestModel\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\开源\webapi\WebApiTestModel\obj\Debug\WebApiTestModel.csprojResolveAssemblyReference.cache

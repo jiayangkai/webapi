@@ -12,3 +12,17 @@ D:\Demo\WebApiTestClient\WebApiTestBll\bin\Debug\Newtonsoft.Json.xml
 D:\Demo\WebApiTestClient\WebApiTestBll\obj\Debug\WebApiTestBll.csprojResolveAssemblyReference.cache
 D:\Demo\WebApiTestClient\WebApiTestBll\obj\Debug\WebApiTestBll.dll
 D:\Demo\WebApiTestClient\WebApiTestBll\obj\Debug\WebApiTestBll.pdb
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestBll.dll
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestBll.pdb
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\MySql.Data.dll
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestDll.dll
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestModel.dll
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestUtils.dll
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestDll.pdb
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestModel.pdb
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\WebApiTestUtils.pdb
+D:\Demo\开源\webapi\WebApiTestBll\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\开源\webapi\WebApiTestBll\obj\Debug\WebApiTestBll.csprojResolveAssemblyReference.cache
+D:\Demo\开源\webapi\WebApiTestBll\obj\Debug\WebApiTestBll.dll
+D:\Demo\开源\webapi\WebApiTestBll\obj\Debug\WebApiTestBll.pdb
